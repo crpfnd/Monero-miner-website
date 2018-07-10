@@ -1,6 +1,6 @@
 {
-  "name": "HELLO MINER",
-  "short_name": "MINER",
+  "name": "HELLO WORLD",
+  "short_name": "WORLD",
   "lang": "fr",
   "start_url": "/",
   "display": "standalone",
